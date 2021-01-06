@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: 'Staatliches', cursive;
+}
+h1{
+    font-size: 70px;
+}
+.name-highlight{
+color: orangered;
+}
+.half-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-part img{
+    width: 80%;
+}
+.top-site{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange , orangered);
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.barcelona{
+    color: orangered;
+}
+.last-part{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.messi-name{
+    font-size: 50px;
+}
+.block{
+    box-shadow: 10px 10px 35px;
+    border-radius: 20px;
+    height: 45%;
+}
+.gain{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stacks{
+    border-left: solid 7px;
+    border-image: linear-gradient(orange , orangered);
+    border-image-slice: 1;
+}
+#full-stack{
+    border-left: solid 7px;
+    border-image: linear-gradient(blue , rgb(85, 85, 143));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
